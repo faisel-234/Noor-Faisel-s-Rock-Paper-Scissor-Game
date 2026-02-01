@@ -1,5 +1,9 @@
-# Noor-Faisel-s-Rock-Paper-Scissor-Game
-Reviewed and redesigned an MIT-licensed Rock–Paper–Scissors game by analyzing its JavaScript logic and architecture, then modernizing the UI using HTML and CSS.
+# 🗂️ Rock, Paper, Scissors Game ✊🖐️✌️ 
+## ➡️ Key Concepts :
+### ✅ Conditionals
+### ✅ Functions
+### ✅ getElementById
+
 
 
 Final README.md (Senior & Technical Review) - 2026-31-01
